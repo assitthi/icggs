@@ -1,0 +1,11 @@
+.flickrgallery ul li{
+    padding: 5px 0 0 5px;
+    float: left;
+    width: 25%;
+}
+.flickrgallery ul li a{
+    padding: 3px;
+    float: left;
+    overflow: hidden;
+    border: #5a5a5a solid 1px;
+}
